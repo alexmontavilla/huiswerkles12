@@ -1,0 +1,93 @@
+body {
+  background-color: aliceblue;
+}
+
+header {
+  background-color: cornflowerblue;
+  width: 100%;
+  height: 100px;
+}
+
+footer { background-color: skyblue;
+  width: 100%;
+  height: 100px;
+
+}
+
+#cell1 { background-color: mistyrose;
+
+}
+
+#cell2 { background-color: cornsilk;
+
+}
+
+#cell3 { background-color: antiquewhite;
+
+}
+
+#cell4 { background-color: blanchedalmond;
+
+}
+
+#cell5 { background-color: linen;
+
+}
+
+#cell6 { background-color: bisque;
+
+}
+
+#cell7 { background-color: beige;
+
+}
+
+#cell8 { background-color: navajowhite;
+
+}
+#cell9 { background-color: lavenderblush;
+
+}
+
+#cell10 { background-color: wheat;
+
+}
+#cell11 { background-color: seashell;
+
+}
+
+#cell12 { background-color: lemonchiffon;
+
+} 
+
+#cell13 { background-color: floralwhite;
+
+}
+
+#cell14 { background-color: lightgoldenrodyellow;
+
+}
+
+#cell15 { background-color: honeydew;
+
+}
+
+#cell16 { background-color: papayawhip;
+
+}
+
+table.table1 {
+  width: 80%;
+  background-color: #ffffff;
+  border-width: 1px;
+  border-color: #000000;
+  border-style: solid;
+  color: #000000;
+}
+
+table.table1 td {
+  border-width: 0px;
+  border-color: #000000;
+  border-style: solid;
+  padding: 1px;
+}
